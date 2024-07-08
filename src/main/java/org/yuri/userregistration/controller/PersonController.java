@@ -6,8 +6,8 @@ import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.yuri.userregistration.dtos.PersonDTO;
-import org.yuri.userregistration.model.Person;
+import org.yuri.userregistration.domain.PersonDTO;
+import org.yuri.userregistration.domain.Person;
 import org.yuri.userregistration.service.PersonService;
 
 import java.util.List;

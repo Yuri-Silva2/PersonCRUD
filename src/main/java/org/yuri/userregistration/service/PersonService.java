@@ -2,8 +2,8 @@ package org.yuri.userregistration.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.yuri.userregistration.model.Person;
-import org.yuri.userregistration.repository.PersonRepository;
+import org.yuri.userregistration.domain.Person;
+import org.yuri.userregistration.domain.PersonRepository;
 
 import java.util.List;
 import java.util.Optional;
