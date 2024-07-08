@@ -12,9 +12,11 @@ import lombok.*;
 @EqualsAndHashCode(of = "id")
 public class Person {
 
-    @Id
+    @Id @Column(name="id")
     private String id;
+    @Column(name="name")
     private String name;
+    @Column(name="password")
     private String password;
 
     public Person(PersonDTO personDTO) {
