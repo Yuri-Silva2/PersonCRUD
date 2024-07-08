@@ -1,8 +1,7 @@
-package org.yuri.userregistration.model;
+package org.yuri.userregistration.domain;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.yuri.userregistration.dtos.PersonDTO;
 
 @Entity(name="person")
 @Table(name="person")

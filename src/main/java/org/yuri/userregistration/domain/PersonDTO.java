@@ -1,4 +1,4 @@
-package org.yuri.userregistration.dtos;
+package org.yuri.userregistration.domain;
 
 import jakarta.validation.constraints.NotBlank;
 
