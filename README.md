@@ -13,7 +13,7 @@ This repository contains a simple CRUD project built using Java Spring. The purp
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/Yuri-Silva2/UserRegistrationCRUD.git
+  git clone https://github.com/Yuri-Silva2/PersonCRUD.git
 ```
 
 2. Install dependencies with Maven
