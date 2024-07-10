@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.yuri</groupId>
-    <artifactId>UserRegistration</artifactId>
+    <artifactId>PersonCRUD</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>UserRegistration</name>
-    <description>UserRegistration</description>
+    <name>PersonCRUD</name>
+    <description>PersonCRUD</description>
     <url/>
     <licenses>
         <license/>
